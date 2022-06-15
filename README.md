@@ -1,5 +1,5 @@
 ## Hello, I'm Bruno Oliveira 👋
-- 💻 I’m currently learning react and flutter.
+- 💻 I'm currently learning C# and GameDev.
 - 🔍 I'm currently searching for jobs or an internship.
 - 📫 How to reach me: boliveira12@hotmail.com
 
